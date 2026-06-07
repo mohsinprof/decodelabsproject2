@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // ✅ MongoDB connection string goes here
-const MONGODB_URI = "mongodb+srv://mohsin1223:muerHlFZiEFtmaF9@cluster0.qkvucse.mongodb.net/internship";
+const MONGODB_URI = "i";
 
 mongoose
   .connect(MONGODB_URI)
